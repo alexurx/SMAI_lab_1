@@ -45,18 +45,19 @@
 1. Просмотр содержимого корневой директории:
     
 
-![Скрин](programming/SMAI/screenshot/3.png) 
+![Скрин](screenshot/3.png) 
 
 2. Ознакомление с содержимым системных каталогов:
     
 
-![Скрин](programming/SMAI/screenshot/4.png)![Скрин](programming/SMAI/screenshot/5.png)
-![Скрин](programming/SMAI/screenshot/6.png)
+![Скрин](screenshot/4.png)
+![Скрин](screenshot/5.png)
+![Скрин](screenshot/6.png)
 
 3. Визуализация структуры каталогов с помощью `tree`:
     
 
-![Скрин](programming/SMAI/screenshot/7.png)
+![Скрин](screenshot/7.png)
 
 ---
 
@@ -97,7 +98,7 @@
 4. Удаление файлов и каталогов (`rm`, `rmdir`):
 	
 
-![Скрин](programming/SMAI/screenshot/8.png)
+![Скрин](screenshot/8.png)
 
 
 ---
@@ -133,14 +134,14 @@
 1. Создание пользователя (`useradd`, `passwd`):
     
 
-![Скрин](programming/SMAI/screenshot/9.png)
+![Скрин](screenshot/9.png)
 
 2. Просмотр прав доступа (`ls -l`):
 3. Изменение прав доступа (`chmod`):
 4. Изменение владельца файла (`chown`):
     
 
-![Скрин](10.png)
+![Скрин](screenshot/10.png)
 
 ---
 
@@ -166,17 +167,17 @@
 1. Просмотр процессов (`ps aux`):
     
 
-![Скрин](11.png)
+![Скрин](screenshot/11.png)
 
 2. Использование команды `top`:
     
 
-![Скрин](12.png)
+![Скрин](screenshot/12.png)
 
 3. Завершение процесса с помощью `kill`:
     
 
-![Скрин](13.png)
+![Скрин](screenshot/13.png)
 
 ---
 
@@ -201,17 +202,17 @@
 1. Поиск строк с помощью `grep`:
     
 
-![Скрин](21.png)
+![Скрин](screenshot/21.png)
 
 2. Замена текста и удаление строк с помощью `sed`:
     
 
-![Скрин](22.png)
+![Скрин](screenshot/22.png)
 
 3. Обработка данных с помощью `awk`:
     
 
-![Скрин](23.png)
+![Скрин](screenshot/23.png)
 
 ---
 
